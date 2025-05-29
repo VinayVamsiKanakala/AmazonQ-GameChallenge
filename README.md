@@ -1,4 +1,4 @@
-# 🎮 Q-Games: A Suite of Offline Mini-Games
+# 🎮 AmazonQ-Games: A Suite of Offline Mini-Games
 
 Q-Games is a beautifully designed collection of offline mini-games built in Python. Developed using the powerful Amazon Q developer assistant, this project showcases a sleek, animated user interface and a modular design—perfect for casual play and Python GUI learning alike.
 
