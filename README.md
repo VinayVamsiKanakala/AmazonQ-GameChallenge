@@ -43,10 +43,16 @@ python games_suite.py
 ## 📁 Project Structure
 
 ```
-Q-Games/
+AmazonQ-GameChallenge/
 ├── assets/             # Icons, images, and other media
 ├── games_suite.py      # Main launcher and GUI
 ├── games/              # Folder for individual game modules
+   ├── snake.py
+   ├── chess.py
+   ├── puzzle.py
+   ├── memory_match.py
+   ├── carrom.py
+├── games_suite.py              
 ├── requirements.txt    # Python dependencies
 └── README.md           # You're reading it!
 ```
