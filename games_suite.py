@@ -4,7 +4,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 import os
-import sys
+import sys  
 import importlib
 import random
 import time
@@ -301,7 +301,7 @@ class GamesSuite(tk.Tk):
         # Create title with Garamond italic font
         self.title_text = self.canvas.create_text(
             self.winfo_width() // 2, 50,
-            text="Python Games Suite",
+            text="Offline Games",
             font=("Garamond", 36, "italic"),
             fill="white",
             tags="title"
@@ -318,7 +318,7 @@ class GamesSuite(tk.Tk):
         # Create footer text with Garamond italic font
         self.footer_text = self.canvas.create_text(
             self.winfo_width() // 2, self.winfo_height() - 25,
-            text="© 2025 Python Games Suite",
+            text="© 2025 Q Games Suite | © AWS Limited",
             font=("Garamond", 12, "italic"),
             fill="white",
             tags="footer_text"
